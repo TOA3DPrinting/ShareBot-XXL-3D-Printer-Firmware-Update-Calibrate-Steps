@@ -1,4 +1,4 @@
-# ShareBot-XXL-3D-Printer-Firmware-Update-Calibrate-Steps
+# ShareBot XXL 3D Printer Firmware Update Calibrate Steps
 Please read the whole tread on this page to help understand the process it takes to accomplish the Update
 
 This Marlin firmware requires an older - Arduino-1.0.6-IDE-Windows-master software to compile and upload to the printer.
@@ -21,8 +21,8 @@ In the tools tab click Port & Select - which ever one the printer is connected t
 
 After you have connected the printer you can press Upload it will take about 1 minute and you'll see the printers screen go blank or have black cubes its doing its thing.
 
-Calibrate AXIS steps per mm #-
-See if the Stepper motors are calibrated correctly, you can adjust the steps per mm on the Configuration.h tab
+Calibrating the AXIS steps per mm #- Optional
+See if the Stepper motors are calibrated correctly, in here you can adjust the steps per mm on the Configuration.h tab
 After you measure with calipers making the printer head travel 100mm to see if in real life measurements are correct.
 After you find out the numbers you can adjust accordingly.
 
