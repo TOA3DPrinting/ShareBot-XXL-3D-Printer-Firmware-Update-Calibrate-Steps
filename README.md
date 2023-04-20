@@ -2,7 +2,7 @@
 Please read the whole tread on this page to help understand the process it takes to accomplish the Update
 
 This Marlin firmware requires an older - Arduino-1.0.6-IDE-Windows-master software to compile and upload to the printer.
-Please locate on github for this program I couldnt upload it onto this respritory.
+Please locate on github for this program I couldnt upload it onto this repositories .
 
 You would need to copy the files that correlates to your printer. 
 The files come with 5 different sets of configuration.h that go to different 3D Printers so chose wisely.
