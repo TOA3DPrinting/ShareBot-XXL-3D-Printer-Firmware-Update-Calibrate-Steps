@@ -32,9 +32,10 @@ Scroll down 3/4 of the page on the Configuration.h tab, you will see a section c
 // default settings
 
 #define DEFAULT_AXIS_STEPS_PER_UNIT {80,80,400,96.2753} // default steps per unit for ultimaker
+
 #define DEFAULT_MAX_FEEDRATE {300, 300, 12, 35} // (mm/sec)
-#define DEFAULT_MAX_ACCELERATION {2000,2000,50,2000} // X, Y, Z, E maximum start speed for accelerated moves. 
-E default values are good for skeinforge 40+, for older versions raise them a lot.
+
+#define DEFAULT_MAX_ACCELERATION {2000,2000,50,2000} // X, Y, Z, E maximum start speed for accelerated moves. E default values are good for skeinforge 40+, for older versions raise them a lot.
 ``
 
 Changing the #define DEFAULT_AXIS_STEPS_PER_UNIT {80,80,400,96.2753} numbers here, will change the steps per mm
