@@ -1,5 +1,6 @@
 # ShareBot XXL+ 3D Printer Firmware Update Calibrate Steps
 Please read the whole tread on this page to help understand the process it takes to accomplish the Update
+I will upload a video on how I restored a XXL+ printer
 
 This Marlin firmware requires an older - Arduino-1.0.6-IDE-Windows-master software to compile and upload to the printer.
 Please locate on github for this program I couldnt upload it onto this repositories .
