@@ -1,5 +1,5 @@
 # ShareBot XXL+ 3D Printer Firmware Update Calibrate Steps
-Please read the whole tread on this page to help understand the process it takes to accomplish the Update.
+Please read the whole thread on this page to help understand the process it takes to accomplish the Update.
 
 I will upload a video to youtube and add a link for how I restored a XXL+ printer when I complete the video
 
